@@ -6,5 +6,5 @@ We are two 18-years-old guys who are developing some projects for the speedcubin
 - CubingRace (Private repository)
 
 ### Authors:
-- Fabian Tomasovic
-- Mattia Pasquini
+- [Fabian Tomasovic](https://github.com/ImplacableOnion31)
+- [Mattia Pasquini](https://github.com/Pasqui03)
